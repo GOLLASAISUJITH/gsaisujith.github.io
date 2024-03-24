@@ -1,3 +1,1 @@
-# My Resume
-
-<p align="center">G Sai Sujith</p>
+<h1 align="center">G Sai Sujith</h1>

@@ -1,6 +1,3 @@
-Hi 
+# My Resume
 
-This is Sujith,
-
-I am a Cloud Security Engineer expertised in AWS.
-
+<p align="center">G Sai Sujith</p>
